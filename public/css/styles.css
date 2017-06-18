@@ -1,0 +1,26 @@
+#dropfile{
+    width: 100%;
+    height: 50%;
+    background-color: grey;
+}
+#pw{
+    width: 100%;
+    font-size: 20px;
+}
+label{
+    font-size: 20px;
+}
+.dragover{
+    background-color: lightgray !important;
+}
+#textwrapper{
+    text-align: center;
+    padding-top: 15%;
+    justify-content:center;
+    align-items:center;
+}
+#spinner{
+    display:none;
+    justify-content:center;
+    align-items:center;
+}
